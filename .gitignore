@@ -16,3 +16,9 @@ Session.vim
 librf*.so.*
 .DS*
 
+
+workspace/.metadata
+workspace/HelloRpiWorld/Debug
+workspace/RemoteSystemsTempFiles
+workspace/RpiRF24/Debug
+workspace/RpiTemperatureReceiver/Debug
